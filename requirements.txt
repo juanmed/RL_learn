@@ -1,0 +1,7 @@
+gym
+keras
+tensorflow-gpu
+sklearn
+matplotlib
+
+
